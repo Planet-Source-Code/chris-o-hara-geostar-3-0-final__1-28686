@@ -1,0 +1,6 @@
+frmMain = 2, 450, 994, 921, , -6, 1, 994, 449, 
+modStar = 198, 198, 786, 814, Z
+CMyItemData = 0, 0, 0, 0, C
+CMyItemDatas = 0, 0, 0, 0, C
+CoolMenu = 0, 0, 0, 0, C
+CMWndProc = 0, 0, 0, 0, C
